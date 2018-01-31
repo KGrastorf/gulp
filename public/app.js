@@ -1,0 +1,1 @@
+var name="Steve",dog=function(){console.log("woof")};angular.module().controller(function(){}),$("div").hide(),angular.module().service(function(){});
